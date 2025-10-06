@@ -330,6 +330,17 @@ WHERE DAY(p.payment_time) <> 1
 ```
 
 5. Logs the query result or a fallback if an error occurs.
+   
+## Output
+
+<img width="2879" height="1799" alt="Screenshot 2025-10-06 170548" src="https://github.com/user-attachments/assets/9df08e58-225d-4806-aa57-2bcae1dde4a6" />
+
+<img width="2879" height="1799" alt="Screenshot 2025-10-06 173451" src="https://github.com/user-attachments/assets/56e1cab2-43bf-40f0-a51c-967b2b3465bf" />
+
+<img width="900" height="1141" alt="Screenshot 2025-10-06 173837" src="https://github.com/user-attachments/assets/3258d62b-8a1a-4cc1-854e-59e52298c841" />
+
+<img width="2879" height="1796" alt="Screenshot 2025-10-06 174058" src="https://github.com/user-attachments/assets/67c1ca35-fca7-4ae2-96c6-79011dac013f" />
+
 
 ## 🐞 Error Handling
 
