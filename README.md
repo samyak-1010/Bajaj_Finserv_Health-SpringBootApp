@@ -39,7 +39,7 @@ demo/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bajaj-finserv-health-springboot.git
+git clone https://github.com/samyak-1010/Bajaj_Finserv_Health-SpringBootApp.git
 cd bajaj-finserv-health-springboot/demo
 ```
 
@@ -331,7 +331,7 @@ WHERE DAY(p.payment_time) <> 1
 
 5. Logs the query result or a fallback if an error occurs.
    
-## Output
+## 🎯Output
 
 <img width="2879" height="1799" alt="Screenshot 2025-10-06 170548" src="https://github.com/user-attachments/assets/9df08e58-225d-4806-aa57-2bcae1dde4a6" />
 
